@@ -92,7 +92,7 @@ todo-frontend/   # React/TailwindCSS frontend (Vite)
 
 ![Screenshot1](https://github.com/user-attachments/assets/88a7e3c4-55ce-4726-8728-1e1322f1d9d4)
 
-![Screenshot 2](https://github.com/user-attachments/assets/74c97d52-540c-40f5-a8cb-87ed0b823d42)
+
 
 
 
@@ -107,4 +107,4 @@ This project is for educational purposes.
 
 ## Support
 
-For support, email sasidharan.m2004@gmail.com or join our Slack channel.
+For support, email rvhariharan2004@gmail.com or join our Slack channel.
